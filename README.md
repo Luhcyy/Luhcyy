@@ -18,10 +18,16 @@
   
   
   <details>
-    <summary> 📝 Resume</summary>
+    <summary📝 Resume</summary>
     
 ## Education
-
+  - 📖 **System Development**\
+  📆 2019 - 2022
+  🏫 ** ETEC Tenente Aviador Gustavo Klug** - Pirassununga, São Paulo
+  
+  - 📖 **Multiplatform Software Development**\
+  📆 2023 - now
+  🏫 ** ETEC Tenente Aviador Gustavo Klug** - Pirassununga, São Paulo
 
 <!--
 **Luhcyy/Luhcyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
