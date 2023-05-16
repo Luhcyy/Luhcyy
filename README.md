@@ -14,6 +14,9 @@
   </a>&nbsp;&nbsp;  
   
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=aura&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcyy&layout=compact&theme=aura)
+  
+  <details>
+    <summary📝Resume </summary
 
 
 <!--
