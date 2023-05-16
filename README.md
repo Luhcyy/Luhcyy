@@ -7,7 +7,7 @@
 
 
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=aura&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcy&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Luhcyy/Luhcyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
