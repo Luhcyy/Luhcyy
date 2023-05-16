@@ -5,7 +5,7 @@
 - I'm currently working on my first Interdisciplinary Project with my classroom team.
 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=aura&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcyy&layout=compact&theme=aura)
 
