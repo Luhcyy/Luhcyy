@@ -5,7 +5,10 @@
 - I'm currently working on my first Interdisciplinary Project with my classroom team.
 
 
-!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p>
+  <a href=https://www.linkedin.com/in/lucas-luiz-assis-609a3a205>
+   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+  </a>&nbsp;&nbsp;
 
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=aura&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcyy&layout=compact&theme=aura)
 
