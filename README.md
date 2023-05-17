@@ -1,6 +1,5 @@
 ### Hello there folks, welcome to my profile ✌️
 
-< img src=https://media.licdn.com/dms/image/C5616AQE-jMG26RdIsw/profile-displaybackgroundimage-shrink_350_1400/0/1630202003187?e=1689811200&v=beta&t=lebHG0z9XmoLtp2D4I2cJM2c1h95DhrFthkQtQ06sAk/> 
 
 - Right now i'm a Multiplatform Software Developing Student on Fatec Araras.
 - I'm currently learning overall web programing, database and algorithm logic.
