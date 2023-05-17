@@ -22,13 +22,11 @@
     
 ## Education
   - 📖 **System Development**\
-  📆 2019 - 2022
-  
+  📆 2019 - 2022  
   🏫 ** ETEC Tenente Aviador Gustavo Klug** - Pirassununga, São Paulo
   
   - 📖 **Multiplatform Software Development**\
-  📆 2023 - now
-  
+  📆 2023 - now  
   🏫 ** Fatec Araras** - Araras, São Paulo
 
 <!--
