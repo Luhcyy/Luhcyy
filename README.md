@@ -8,7 +8,8 @@
 ![alt text](https://github.com/Luhcyy/Luhcyy/blob/main/images/luhcycommssion3.png)
 
 
-#### Social Media
+
+### Social Media
 <p>
   <a href=https://www.linkedin.com/in/lucas-luiz-assis-609a3a205>
    <img src=https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white/>
@@ -16,7 +17,7 @@
   
   </p>
   
-  #### Languages
+  ### Languages
   <p>
   <a>
     <img src=https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=black/>
@@ -28,7 +29,7 @@
   </a>
   </p>
   
-  #### My music
+  ### My music
   <p>
   <a href=https://soundcloud.com/luhcy>
    <img src=https://img.shields.io/badge/SoundCloud-151515?style=for-the-badge&logo=soundcloud&logoColor=white/>
