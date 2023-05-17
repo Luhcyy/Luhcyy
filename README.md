@@ -27,7 +27,7 @@
   
   - 📖 **Multiplatform Software Development**\
   📆 2023 - now
-  🏫 ** ETEC Tenente Aviador Gustavo Klug** - Pirassununga, São Paulo
+  🏫 ** Fatec Araras** - Araras, São Paulo
 
 <!--
 **Luhcyy/Luhcyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
