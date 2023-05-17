@@ -18,12 +18,12 @@
   #### Languages
   <p>
   <a>
-    <img src=https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=black/>
-    <img src=https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white/>
-    <img src=https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white/>
-    <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
-    <img src=https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white/>
-    <img src=https://img.shields.io/badge/C%2B%2B-323330?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
+    <img src=https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=black/>
+    <img src=https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white/>
+    <img src=https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white/>
+    <img src=https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
+    <img src=https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white/>
+    <img src=https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
   </a>
   </p>
   
