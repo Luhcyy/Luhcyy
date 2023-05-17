@@ -5,6 +5,8 @@
 - I'm currently learning overall web programing, database and algorithm logic.
 - I'm currently working on my first Interdisciplinary Project with my classroom team.
 
+![alt text](http://github.com/Luhcyy/Luhcyy/images/commision.png)
+
 #### Social Media
 <p>
   <a href=https://www.linkedin.com/in/lucas-luiz-assis-609a3a205>
