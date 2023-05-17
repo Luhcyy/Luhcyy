@@ -1,4 +1,4 @@
-### Hello there folks, welcome to my profile ✌️
+### Hello there folks, welcome to my profile 
 
 
 - Right now i'm a Multiplatform Software Developing Student on Fatec Araras.
