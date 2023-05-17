@@ -10,9 +10,7 @@
   <a href=https://www.linkedin.com/in/lucas-luiz-assis-609a3a205>
    <img src=https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white/>
   </a>&nbsp;&nbsp;
-  <a href=https://soundcloud.com/luhcy>
-   <img src=https://img.shields.io/badge/SoundCloud-151515?style=for-the-badge&logo=soundcloud&logoColor=white/>
-  </a>&nbsp;&nbsp;  
+  
   </p>
   
   #### Languages
@@ -26,6 +24,12 @@
     <img src=https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
   </a>
   </p>
+  
+  #### My music
+  <p>
+  <a href=https://soundcloud.com/luhcy>
+   <img src=https://img.shields.io/badge/SoundCloud-151515?style=for-the-badge&logo=soundcloud&logoColor=white/>
+  </a>&nbsp;&nbsp;  
   
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=dark&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcyy&layout=compact&theme=dark)
   
