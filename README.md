@@ -15,6 +15,13 @@
   </p>
   
   ##### Languages
+  <p>
+  <a>
+    <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
+    <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
+    <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
+    <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
+  
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=aura&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcyy&layout=compact&theme=aura)
   
   
