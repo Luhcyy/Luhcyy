@@ -5,7 +5,7 @@
 - I'm currently learning overall web programing, database and algorithm logic.
 - I'm currently working on my first Interdisciplinary Project with my classroom team.
 
-![alt text](https://github.com/Luhcyy/Luhcyy/blob/main/images/commission.png)
+![alt text](https://github.com/Luhcyy/Luhcyy/blob/main/images/luhcycommission2.png)
 
 
 #### Social Media
