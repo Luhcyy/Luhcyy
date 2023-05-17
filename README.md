@@ -5,11 +5,11 @@
 - I'm currently learning overall web programing, database and algorithm logic.
 - I'm currently working on my first Interdisciplinary Project with my classroom team.
 
-<a align=center>
+
   
 ![alt text](https://github.com/Luhcyy/Luhcyy/blob/main/images/luhcycommssion3.png)
 
-</a>
+
 
 ### Social Media
 <p>
