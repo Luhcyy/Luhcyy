@@ -8,10 +8,10 @@
 #### Social Media
 <p>
   <a href=https://www.linkedin.com/in/lucas-luiz-assis-609a3a205>
-   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+   <img src=https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=white/>
   </a>&nbsp;&nbsp;
   <a href=https://soundcloud.com/luhcy>
-   <img src=https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white/>
+   <img src=https://img.shields.io/badge/SoundCloud-151515?style=for-the-badge&logo=soundcloud&logoColor=white/>
   </a>&nbsp;&nbsp;  
   </p>
   
