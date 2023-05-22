@@ -19,7 +19,7 @@
   
   </p>
   
-  ### Languages
+  ### Skills
   <p>
   <a>
     <img src=https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=black/>
