@@ -36,6 +36,10 @@
   <a href=https://soundcloud.com/luhcy>
    <img src=https://img.shields.io/badge/SoundCloud-151515?style=for-the-badge&logo=soundcloud&logoColor=white/>
   </a>&nbsp;&nbsp;  
+  <a href=https://open.spotify.com/artist/4GKzZZ9jZcP4zPKsSxMZSp?si=VNQ-AtOrTI6vBXCf7sb3DQ>
+   <img src=![Spotify](https://img.shields.io/badge/Spotify-151515?style=for-the-badge&logo=spotify&logoColor=white)/>
+  </a>&nbsp;&nbsp; 
+  </p>
   
 ![Luhcyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luhcyy&theme=dark&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhcyy&layout=compact&theme=dark)
   
