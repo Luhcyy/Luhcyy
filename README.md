@@ -37,7 +37,7 @@
    <img src=https://img.shields.io/badge/SoundCloud-151515?style=for-the-badge&logo=soundcloud&logoColor=white/>
   </a>&nbsp;&nbsp;  
   <a href=https://open.spotify.com/artist/4GKzZZ9jZcP4zPKsSxMZSp?si=VNQ-AtOrTI6vBXCf7sb3DQ>
-   <img src=![Spotify](https://img.shields.io/badge/Spotify-151515?style=for-the-badge&logo=spotify&logoColor=white)/>
+   <img src=https://img.shields.io/badge/Spotify-151515?style=for-the-badge&logo=spotify&logoColor=white/>
   </a>&nbsp;&nbsp; 
   </p>
   
