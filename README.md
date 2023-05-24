@@ -9,7 +9,7 @@
   
 ![alt text](https://github.com/Luhcyy/Luhcyy/blob/main/images/luhcycommssion3.png)
 
-- commission made by: https://samlrc.carrd.co/#art
+#### :ram: commission made by: https://samlrc.carrd.co/#art
 
 
 
