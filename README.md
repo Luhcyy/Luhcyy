@@ -3,7 +3,6 @@
 
 - Right now i'm a Multiplatform Software Developing Student on Fatec Araras.
 - I'm currently learning overall web programing, database and algorithm logic.
-- I'm currently working on my first Interdisciplinary Project with my classroom team.
 
 
   
