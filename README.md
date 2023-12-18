@@ -28,8 +28,9 @@
     <img src=https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=white/>
     <img src=https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
     <img src=https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white/>
-    <img src=https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white/>
     <img src=https://img.shields.io/badge/Angular-151515?style=for-the-badge&logo=angular&logoColor=white/>
+    <img src=https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white/>
+    
   </a>
   </p>
   
