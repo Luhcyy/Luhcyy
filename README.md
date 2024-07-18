@@ -24,7 +24,7 @@
   <p>
   <a>
     <img src=https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=black/>
-    <img src=https://img.shields.io/badge/VueJs-151515?style=for-the-badge&logo=css3&logoColor=white/>
+    <img src=https://img.shields.io/badge/VueJs-151515?style=for-the-badge&logo=vuejs&logoColor=white/>
     <img src=https://img.shields.io/badge/NodeJs-151515?style=for-the-badge&logo=html5&logoColor=white/>
     <img src=https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
     <img src=https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white/>
