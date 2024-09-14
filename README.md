@@ -5,12 +5,6 @@
 - I'm currently learning overall web programing, database and algorithm logic.
 
 
-  
-![alt text](https://github.com/Luhcyy/Luhcyy/blob/main/images/luhcycommssion3.png)
-
-#### :ram: commission made by: https://samlrc.carrd.co/#art
-
-
 
 ### Social Media
 <p>
