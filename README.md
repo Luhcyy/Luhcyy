@@ -21,6 +21,7 @@
     <img src=https://img.shields.io/badge/VueJs-151515?style=for-the-badge&logo=vuedotjs&logoColor=white/>
     <img src=https://img.shields.io/badge/NodeJs-151515?style=for-the-badge&logo=node.js&logoColor=white/>
     <img src=https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
+    <br>
     <img src=https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white/>
     <img src=https://img.shields.io/badge/Angular-151515?style=for-the-badge&logo=angular&logoColor=white/>
     <img src=https://img.shields.io/badge/Flutter-151515?style=for-the-badge&logo=flutter&logoColor=white/>
